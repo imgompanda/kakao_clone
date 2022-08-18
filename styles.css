@@ -6,6 +6,9 @@
 @import "friends.css";
 @import "user-component.css";
 @import "badge.css";
+@import "find.css";
+@import "more.css";
+@import "icon-row.css";
 
 @font-face {
   font-family: "kakao";
